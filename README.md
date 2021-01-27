@@ -1,3 +1,3 @@
 # developing-mobile-apps
 
-![Screenshot of the application](./screen-shot.png)
+<img src="./screen-shot.png" width=300>
