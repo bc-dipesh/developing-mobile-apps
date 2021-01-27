@@ -4,6 +4,6 @@
 
 <img src="./screen-shot.png" width=300>
 
-## App interactivity
+## App interaction
 
 ![](./screen-gif.gif)
