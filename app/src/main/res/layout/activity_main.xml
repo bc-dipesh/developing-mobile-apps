@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/NAME_TEXT"
+        style="@style/text_style"
+        android:layout_width="match_parent"
+        android:text="@string/name"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/EDIT_NICKNAME_TEXT"
+        style="@style/text_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/nick_name"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/DONE_BTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/done" />
+
+    <TextView
+        android:id="@+id/HIDDEN_NICKNAME"
+        style="@style/text_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/STAR_IMAGE"
+        style="@style/text_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        android:contentDescription="@string/star"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ScrollView
+        android:id="@+id/SCROLL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/ABOUT_ME_TEXT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lorem_ipsum" />
+    </ScrollView>
+
+</LinearLayout>
