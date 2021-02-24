@@ -8,5 +8,5 @@ Please refer to the links below for updated commits.
 - [About Me](https://github.com/bc-dipesh/about-me "About Me")
 - [Hello Toast](https://github.com/bc-dipesh/hello-toast "Hello Toast")
 - [Hello Toast Challenge](https://github.com/bc-dipesh/hello-toast-challenge "Hello Toast Challenge")
-- [Scrolling Test](https://github.com/bc-dipesh/scrolling-text "Scrolling Text")
+- [Scrolling Text](https://github.com/bc-dipesh/scrolling-text "Scrolling Text")
 - [Multiple Activity](https://github.com/bc-dipesh/multiple_activity "Multiple Activity")
