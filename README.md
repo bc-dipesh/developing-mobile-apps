@@ -10,3 +10,5 @@ Please refer to the links below for updated commits.
 - [Hello Toast Challenge](https://github.com/bc-dipesh/hello-toast-challenge "Hello Toast Challenge")
 - [Scrolling Text](https://github.com/bc-dipesh/scrolling-text "Scrolling Text")
 - [Multiple Activity](https://github.com/bc-dipesh/multiple_activity "Multiple Activity")
+- [Two Activity](https://github.com/bc-dipesh/two-activity "Two Activity")
+- [Shopping List](https://github.com/bc-dipesh/shopping-list "Shopping List")
