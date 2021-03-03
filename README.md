@@ -12,3 +12,4 @@ Please refer to the links below for updated commits.
 - [Multiple Activity](https://github.com/bc-dipesh/multiple_activity "Multiple Activity")
 - [Two Activity](https://github.com/bc-dipesh/two-activity "Two Activity")
 - [Shopping List](https://github.com/bc-dipesh/shopping-list "Shopping List")
+- [Fragment Example](https://github.com/bc-dipesh/fragment-example "Fragment Example")
