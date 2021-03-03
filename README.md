@@ -13,3 +13,4 @@ Please refer to the links below for updated commits.
 - [Two Activity](https://github.com/bc-dipesh/two-activity "Two Activity")
 - [Shopping List](https://github.com/bc-dipesh/shopping-list "Shopping List")
 - [Fragment Example](https://github.com/bc-dipesh/fragment-example "Fragment Example")
+- [Recycler View](https://github.com/bc-dipesh/recycler-view "Recycler View")
